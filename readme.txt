@@ -41,6 +41,7 @@ Fixed support for anchor links (Ex.: href=#top) will not be redirected, but www.
 Added .htaccess support, now your links can look like http://www.maiq.info/out/http://www.wordpress.org/ In stead of http://www.maiq.info/wp-content/plugins/mq-relinks/out.php?url=http://www.wordpress.org/
 
 Changes in 1.3
+
 Updated to work with latest version of wordpress
 Fixed/added support for javascript links (Ex.: href=javascript:void(0)) will not be redirected.
 Fixed/added support for image links; .jpg, .gif and .png links will not be redirected. You can enable/disable this feature in the administration area.
