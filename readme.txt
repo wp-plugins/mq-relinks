@@ -4,8 +4,8 @@ Donate link: http://www.maiq.info/work/wordpress/mq-relinks/
 Tags: link, redirect
 Requires at least: 3
 Tested up to: 4.0
-Stable tag: 1.5
-Version:1.5
+Stable tag: 1.6
+Version:1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -66,6 +66,10 @@ Updated to work with latest version of wordpress
 
 =Changes in 1.5=
 Bug fixes
+
+=Changes in 1.6=
+Bug fixes
+
 == Installation ==
 
 1. Unzip the downloaded package and upload the MQ ReLinks folder into your Wordpress plugins folder
