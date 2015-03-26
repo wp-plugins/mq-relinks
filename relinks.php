@@ -3,7 +3,7 @@
 Plugin Name: MQ ReLinks
 Plugin URI: http://www.maiq.info/
 Description: Inserts target="_blank" and rewrites all direct links in posts, widgets, comments and author links, to a out.php file.
-Version: 1.6
+Version: 1.5
 Author: maiq
 Author URI: http://www.maiq.info/
 	Copyright (c) 2008 - 2014 maiq (http://www.maiq.info)
